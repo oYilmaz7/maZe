@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1489628623 source:c:\users\asus\desktop\c projeler\mazedeneme\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<allegro.h>
+
